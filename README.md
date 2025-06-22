@@ -9,7 +9,7 @@ I specialize in the intersection of data analysis and digital communication stra
 Currently, I am a UI/Backend software engineer at Easley-Dunn Productions.
 
 ### 📚 Projects
-For a complete view of my projects, please check out my [portfolio]().
+For a complete view of my projects, please check out my [portfolio](https://github.com/yq808/project-guide).
 
 ### 🛠️ Tools
 - Languages: Python, SQL
@@ -17,7 +17,7 @@ For a complete view of my projects, please check out my [portfolio]().
 - Visualizatiosn: Tableau, Microsoft Excel
 
 ### Contact
-Find me on [LinkedIn](https://www.linkedin.com/in/yueqi-huang/)! ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)] 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/yueqi-huang/).
 
 <!--
 **yq808/yq808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
