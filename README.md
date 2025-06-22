@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 -->
 
-# Welcome!
+## Welcome! 👋
 
 Hi, I’m Alison Huang, a designer and developer currently based in California. My interests include data analysis, web development, database management, game design, and communication research.
 
