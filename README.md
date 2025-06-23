@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-Hi, I’m Alison Huang, a data analyst and developer currently based in California. My interests include data analysis, web development, machine learning, game design, and communication research.
+Hi, I’m Alison (Yueqi) Huang, a data analyst and developer currently based in California. My interests include data analysis, web development, machine learning, game design, and communication research.
 
 In 2024, I earned my M.S. in Communication Data Science from the University of Southern California, and in 2022, I earned a B.A. in Communication with a minor in Web Development from the University of Southern California.
 
@@ -11,7 +11,7 @@ I specialize in the intersection of data analysis and digital communication stra
 Currently, I am a UI/Backend software engineer at Easley-Dunn Productions.
 
 ### 📚 Projects
-For a complete view of my projects, please check out my [portfolio](https://github.com/yq808/project-guide).
+For a complete view of my projects, please check out my [portfolio](https://github.com/yq808/project-guide). I also have a [website](https://yq808.github.io/)!
 
 ### 🛠️ Tools
 - Languages: Python, SQL
