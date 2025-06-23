@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-Hi, I’m Alison Huang, a designer and developer currently based in California. My interests include data analysis, web development, database management, game design, and communication research.
+Hi, I’m Alison Huang, a data analyst and developer currently based in California. My interests include data analysis, web development, machine learning, game design, and communication research.
 
 In 2024, I earned my M.S. degree in Communication Data Science from the University of Southern California, and in 2022, I earned a B.A. in Communication with a minor in Web Development from the University of Southern California.
 
