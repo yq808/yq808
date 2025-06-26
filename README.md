@@ -16,7 +16,7 @@ For a complete view of my projects, please check out my [portfolio](https://gith
 ### 🛠️ Tools
 - Languages: Python, SQL
 - Databases: PostgreSQL, MySQL
-- Visualizatiosn: Tableau, Microsoft Excel
+- Visualizations: Tableau, Microsoft Excel
 
 ### Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/yueqi-huang/).
